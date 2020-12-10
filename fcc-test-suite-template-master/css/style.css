@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    padding: 2%;
+}
+#main {
+    background-color: #EEEEEE;
+    margin: auto 2%;
+    
+}
+#img-div {
+    background-color: white;
+    margin: auto 2%;
+    text-align: center;
+}
+#title {
+    text-align: center;
+}
+#subtitle {
+    text-align: center;
+}
