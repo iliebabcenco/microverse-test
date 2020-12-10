@@ -39,6 +39,8 @@ body {
 #info-list {
     margin-left: 8rem;
     margin-right: 10rem;
+    font-size: 1rem;
+    line-height: 1rem;
     
 }
 #cite {
@@ -52,6 +54,12 @@ body {
 }
 #info-list li{
     margin-top: 1rem;
+}
+
+#link-more{
+    font-size: 2rem;
+    font-weight: 400;
+    padding-bottom: 2rem;
 }
 
 @media (max-width: 650vw){
