@@ -15,7 +15,11 @@ body {
 
 #image{
     width: 80rem;
+    
+
+
 }
+
 #title {
     text-align: center;
     padding-top: 2rem;
@@ -25,4 +29,10 @@ body {
     text-align: center;
     font-size: 1.5rem;
     font-weight: lighter;
+}
+@media (max-width: 650vw){
+    #image{
+        width: 100%
+    }
+       
 }
