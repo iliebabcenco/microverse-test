@@ -37,11 +37,11 @@ body {
 } */
 
 #info-list {
-    margin-left: 8rem;
+    margin-left: 10rem;
     margin-right: 10rem;
     font-size: 1rem;
-    line-height: 1rem;
-    
+    line-height: 1.5rem;
+    width: 60%;
 }
 #cite {
     text-align: center;
@@ -60,6 +60,8 @@ body {
     font-size: 2rem;
     font-weight: 400;
     padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 @media (max-width: 650vw){
