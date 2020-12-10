@@ -15,8 +15,6 @@ body {
 
 #image{
     width: 80rem;
-    
-
 
 }
 
@@ -30,6 +28,11 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
 }
+
+/* #info-list{
+    width: 60rem;
+    text-align: center;
+} */
 @media (max-width: 650vw){
     #image{
         width: 100%
