@@ -1,10 +1,10 @@
 body {
     background-color: white;
-    padding: 2%;
+    
 }
 #main {
     background-color: #EEEEEE;
-    margin: auto 2%;
+    margin: auto 1%;
     
 }
 #img-div {
@@ -17,7 +17,9 @@ body {
     width: 80rem;
 
 }
-
+#img-caption p {
+    padding-bottom: 1rem;
+}
 #title {
     text-align: center;
     padding-top: 2rem;
@@ -33,6 +35,25 @@ body {
     width: 60rem;
     text-align: center;
 } */
+
+#info-list {
+    margin-left: 8rem;
+    margin-right: 10rem;
+    
+}
+#cite {
+    text-align: center;
+    margin-left: 8rem;
+    margin-right: 10rem;
+    font-style: italic;
+}
+#tribute-info p {
+    text-align: center;
+}
+#info-list li{
+    margin-top: 1rem;
+}
+
 @media (max-width: 650vw){
     #image{
         width: 100%
